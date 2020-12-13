@@ -1,3 +1,5 @@
 # get-location-android
 
-This is a simple app which returns longitute and latitude continously of an android device's location once it is granted with permissions.  
+This is an android app which returns longitute and latitude continously of an android device's location once it is granted with permissions.  
+
+Api used: Fused location
